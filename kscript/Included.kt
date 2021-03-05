@@ -1,0 +1,3 @@
+fun includedFunction() {
+    println("included!")
+}
